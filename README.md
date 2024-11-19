@@ -193,9 +193,9 @@ The village is easily accessible from towns like Marthandam and Thuckalay and is
 
 ## OUTPUT
 
-![alt text](web6.png)
-
 ![alt text](web1.png)
+
+![alt text](web6.png)
 
 ![alt text](web2.png)
 
